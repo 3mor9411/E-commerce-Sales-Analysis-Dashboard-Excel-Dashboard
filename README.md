@@ -1,6 +1,6 @@
 # E-commerce-Sales-Analysis-Dashboard-Excel-Dashboard
-A comprehensive research data analysis model covering 10 countries over four years (2021–2024).
-It includes 320 records featuring real economic indicators: GDP growth, inflation, 
-unemployment, foreign investment flows, and the Human Development Index.
-Includes year-over-year (YoY) analysis, a data quality report, and summaries by country and year.
-Ideal for researchers, students, and academic institutions.
+An interactive, comprehensive dashboard for analyzing the sales performance of an online store over a full year.
+It includes 5 worksheets: raw data (360 records), a monthly summary, category-based analysis, 
+region-based analysis, and an executive dashboard with real-time KPIs.
+Built using advanced Excel features—including SUMIF and IFERROR functions—and professional charts.
+Ideal for e-commerce store owners and small businesses.
